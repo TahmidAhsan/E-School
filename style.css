@@ -2,3 +2,8 @@ body {
     font-family: 'Abel', sans-serif;
     font-family: 'Roboto', sans-serif;
 }
+
+/* Header part Start */
+nav img{
+    width: 200px;
+}
