@@ -118,3 +118,18 @@ text-decoration: none;
 .courses .peaple-icon{
     margin-left: 30px;
 }
+/* Courses part end */
+.testimonial h2{
+    text-align: center;
+    margin: 70px 0 30px 0;
+    font-size: 36px;
+    font-weight: 700;
+}
+.testimonial-content {
+    padding: 0 12%;
+    margin-bottom: 70px;
+}
+.testimonial-content img{
+    height: 120px;
+    margin-right: 30px ;
+}
